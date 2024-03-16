@@ -6,6 +6,3 @@
 
 (parenthesized_expression "(" @openBracket ")" @closedBracket) @brackets
 
-(for_statement "(" @openBracket ")" @closedBracket) @brackets
-
-(condition_clause "(" @openBracket ")" @closedBracket) @brackets
